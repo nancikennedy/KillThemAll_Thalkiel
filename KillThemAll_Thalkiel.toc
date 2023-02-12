@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: |cff00ccffKillThemAll_Thalkiel|r
+## Version: 1.0.3
+## Notes: Adds Skull of the Man'ari to KillThemAll
+## Author: Karaste
+## DefaultState: enabled
+##Dependencies: KillThemAll
+
+Thalkiel.lua
+Core.lua
