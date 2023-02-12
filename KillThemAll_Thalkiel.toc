@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 100005
 ## Title: |cff00ccffKillThemAll_Thalkiel|r
 ## Version: 1.0.3
 ## Notes: Adds Skull of the Man'ari to KillThemAll
