@@ -1,5 +1,4 @@
 # KillThemAll_Thalkiel
-Skull of the Man'ari module for KillThemAll
 
 This module will add Skull of the Man'ari to the KillThemAll addon.
 
